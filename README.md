@@ -32,7 +32,7 @@ To run the application locally, follow these steps:
 
 2. **Install Dependencies:**
    ```
-   cd real-time-chat-app
+   cd chat-application
    npm install
    ```
 
